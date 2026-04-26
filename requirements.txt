@@ -1,0 +1,6 @@
+mss
+Pillow
+pynput
+pygetwindow
+python-xlib
+PyQt5

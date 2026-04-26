@@ -1,0 +1,16 @@
+{
+  "workspace_root": "/path/to/your/project",
+  "python_executable": "/path/to/venv/bin/python",
+  "app_control_script": "/path/to/your/project/toolkit/app_control.py",
+  "screenshot_dir": "/path/to/your/project/tmp/screenshots",
+  "preferred_apps": {
+    "browser": "Google Chrome",
+    "editor": "Visual Studio Code",
+    "blender": "Blender"
+  },
+  "common_urls": {
+    "wikipedia": "https://www.wikipedia.org",
+    "colab": "https://colab.research.google.com",
+    "github": "https://github.com"
+  }
+}

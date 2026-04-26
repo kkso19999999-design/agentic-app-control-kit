@@ -1,0 +1,38 @@
+[
+  {
+    "command": "wait-window",
+    "title": "Google Chrome",
+    "timeout": 15
+  },
+  {
+    "command": "highlight-window",
+    "title": "Google Chrome",
+    "seconds": 1.2
+  },
+  {
+    "command": "mark",
+    "title": "Google Chrome",
+    "relative": true,
+    "x": 420,
+    "y": 300,
+    "seconds": 0.9
+  },
+  {
+    "command": "click",
+    "title": "Google Chrome",
+    "relative": true,
+    "x": 420,
+    "y": 300
+  },
+  {
+    "command": "type",
+    "title": "Google Chrome",
+    "text": "Batch command demo from Codex.",
+    "interval": 0.03
+  },
+  {
+    "command": "screenshot",
+    "title": "Google Chrome",
+    "output": "/tmp/app_batch_demo.png"
+  }
+]
